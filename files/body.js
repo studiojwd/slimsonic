@@ -1,0 +1,1 @@
+	hide(1);	hide(2);	hide(3);
