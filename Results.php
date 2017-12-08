@@ -3,10 +3,10 @@
 	<head>
 	  <title>Slimsonic - Evita Slimsonic Ultrasound Fat Removal System - Results</title>
 	  <meta name="description" content="Evita Slimsonic ultrasound fat removal system. It is non-invasive Spot Fat Reduction using the safest ultrasound technology to break down fat cells for long-term weight loss"></meta>
-		<? include "include/header.php";	?>
+		<?php include "include/header.php";	?>
 	</head>
 	<body>
-		<? include "include/top.php";	?>
+		<?php include "include/top.php";	?>
 <div class="group">
 		<h1>Slimsonic Results</h1>
 </div>
@@ -71,6 +71,6 @@ Steve Jon</i></p>
   <div class="border-split">&nbsp;</div>
 <!--Result -->
 </div>
-		<? include "include/footer.php";	?>
+		<?php include "include/footer.php";	?>
 	</body>
 </html>

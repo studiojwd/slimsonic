@@ -3,10 +3,10 @@
 	<head>
 	  <title>Slimsonic - Evita Slimsonic Ultrasound Fat Removal System - How It Works</title>
 	  <meta name="description" content="Evita Slimsonic ultrasound fat removal system. It is non-invasive Spot Fat Reduction using the safest ultrasound technology to break down fat cells for long-term weight loss"></meta>
-		<? include "include/header.php";	?>
+		<?php include "include/header.php";	?>
 	</head>
 	<body>
-		<? include "include/top.php";	?>
+		<?php include "include/top.php";	?>
 <div class="group">
 	<h1>How Slimsonic Works</h1>
 </div>
@@ -86,6 +86,6 @@ Bleeding disorder, implanted electrical device such as a pacemaker, poor arteria
 		<p>Target problem fatty areas, enjoy the treatment anytime and anywhere you want, no recurring billing, and no side effects. Feel better, look younger and achieve a higher resting metabolic rate to maintain a lean body worthy of envy.</p>
   </div>
 </div>
-		<? include "include/footer.php";	?>
+		<?php include "include/footer.php";	?>
 	</body>
 </html>

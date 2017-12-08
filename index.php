@@ -3,10 +3,10 @@
 	<head>
 	  <title>Enter</title>
 	  <meta name="description" content="enter"></meta>
-		<? include "include/header.php";	?>
+		<?php include "include/header.php";	?>
 	</head>
 	<body>
-		<? include "include/top.php";	?>
+		<?php include "include/top.php";	?>
 <div class="group clear">
   <div class="left_col">
     <h1>Evita Slimsonic is a non-invasive treatment which effectively reduces spot fat and cellulite. It uses a new type of advanced ultrasound waves and micro-current massage therapy to melt stubborn body fats safely and naturally in the comfort of your home.</h1>
@@ -68,6 +68,6 @@ Mabel Young</i></p>
     <p>Better yet, you can use it at home, in the office or on vacation, anytime and anywhere you desire. It is discrete and no one has to know your secret behind looking and feeling so good! Be healthy, feel younger and look beautiful.</p>
   </div>
 </div>
-		<? include "include/footer.php";	?>
+		<?php include "include/footer.php";	?>
 	</body>
 </html>
